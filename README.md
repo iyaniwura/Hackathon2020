@@ -35,6 +35,9 @@ We already have the (primary) model, we coded it up, we nunmerically solved the 
 
 ![alt-text](images/ODE_NoQuarantine.png)
 
+![alt-text](images/Variable_NoQ.png)
+
+
 
 * With quarantine
 
