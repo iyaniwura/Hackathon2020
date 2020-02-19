@@ -46,6 +46,10 @@ We develop two ODE metapopulation models to study the population dynamics of the
 * ## Arrival to each country per year
 ![alt-text](images/arrivals.jpg)
 
+# Table of flight data
+
+![alt-text](images/visualizationB.png)
+
 
 
 # Numerical Simulation
@@ -62,4 +66,9 @@ For psi_max = 0.8
 
 
 Very effective against diease outbreak!
+
+# Visualization tool in Browser
+
+![alt-text](images/visualizationB.png)
+
 
