@@ -30,6 +30,7 @@ We already have the (primary) model, we coded it up, we nunmerically solved the 
 * E(t) susceptible population in the $i^{th}$ city
 * I(t) susceptible population in the $i^{th}$ city
 
+\frac{\sigma}{\mu}
 
 * Without quarantine
 
