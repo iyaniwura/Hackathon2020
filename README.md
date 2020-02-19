@@ -23,3 +23,7 @@
 ## Team Progress:
 
 We already have the (primary) model, we coded it up, we nunmerically solved the systems of ODEs and ran simulations based on some made-up data (Team Flight we need you!), and we have the visualization!
+
+## The mathematical Model
+
+* Without quarantine
