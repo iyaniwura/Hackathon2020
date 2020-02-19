@@ -36,5 +36,5 @@ We already have the (primary) model, we coded it up, we nunmerically solved the 
 
  
 
-![alt-text](ODE_WithQuarantine.png)
+![alt-text](images/ODE_WithQuarantine.png)
 
