@@ -33,7 +33,7 @@ We already have the (primary) model, we coded it up, we nunmerically solved the 
 
 * Without quarantine
 
-![alt-text](images/ODE_Quarantine.png)
+![alt-text](images/ODE_NoQuarantine.png)
 
 
 * With quarantine
