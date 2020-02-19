@@ -48,3 +48,18 @@ We develop two ODE metapopulation models to study the population dynamics of the
 
 
 
+# Numerical Simulation
+We change the parameter modelling 'public awareness' to investigate the corresponding effect: 
+
+For psi_max = 0.1 (basically no public awareness)
+![alt-text](images/psi_0p1.png)
+
+For psi_max = 0.5 
+![alt-text](images/psi_0p5.png)
+
+For psi_max = 0.8
+![alt-text](images/psi_0p8.png)
+
+
+Very effective against diease outbreak!
+
