@@ -26,6 +26,7 @@ We already have the (primary) model, we coded it up, we nunmerically solved the 
 
 ## The mathematical Model
 
+<http://mathurl.com/y2f3kpgg>
 * S_i(t) susceptible population in the $i^{th}$ city
 * E(t) susceptible population in the $i^{th}$ city
 * I(t) susceptible population in the $i^{th}$ city
