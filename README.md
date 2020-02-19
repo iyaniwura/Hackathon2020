@@ -40,8 +40,8 @@ We develop two ODE metapopulation models to study the population dynamics of the
 ![alt-text](images/z_function.png)
 
 # Flight data
-![alt-text](images/ODE_Quarantine.png)
-![alt-text](images/arrivals.png)
+![alt-text](images/Departuresperyear.jpg)
+![alt-text](images/arrivals.jpg)
 
 
 
