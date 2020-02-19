@@ -28,16 +28,11 @@ We already have the (primary) model, we coded it up, we nunmerically solved the 
 
 We develop two ODE metapopulation models to study the population dynamics of the  COVID-19 virus in five different connected regions. The connection between these regions are studied in terms of flight travels. 
 
-### Without quarantine
-
+* ### Without quarantine
 ![alt-text](images/ODE_NoQuarantine.png)
-
 ![alt-text](images/Variable_NoQ.png)
 
-
-
-### With quarantine
-
+* ### With quarantine
 ![alt-text](images/ODE_Quarantine.png)
-![alt-text](images/Variable_NoQ.png)
+![alt-text](images/Variable_Q.png)
 
