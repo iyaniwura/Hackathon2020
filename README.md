@@ -4,19 +4,19 @@
 ## Team Member:
 
 
-David Cameron
+David Cameron (BC Cancer)
 
-Brandon Chan
+Brandon Chan (BC Cancer)
 
-Rebeca Cardim Falcao
+Rebeca Cardim Falcao (UBC)
 
-Sarafa Iyaniwura
+Sarafa Iyaniwura (UBC)
 
-Mechthild Kellas-Dick
+Mechthild Kellas-Dicks 
 
-Liangchen Liu
+Liangchen Liu (UBC)
 
-Stephen Zhang
+Stephen Zhang (UBC)
 
 ## Team Aim:
 
