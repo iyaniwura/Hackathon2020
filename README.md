@@ -13,7 +13,11 @@
 
 ## Team Aim:
 
-Build a metapopulation model for different regions with and without quarantine. Use numerical simulation to determine the effect of the intervention strategies on local outbreak prevention and disease control; (Perhaps) BCCDC professionals can determine the most effective and economical  control measures based on this. In addition, we aim to develop a visualization tools to aid in model parameter investigation, selection, and outcomes. This tool will also help in investigating the sensitivity of the parameters of the model.
+* Build a metapopulation model for different regions 
+  ** with  quarantine
+  ** withoutquarantine 
+* Use numerical simulation (in Python) to determine the effect different intervention strategies on local outbreak prevention and disease control; (Perhaps) BCCDC professionals can determine the most effective and economical  control measures based on this. 
+* Develop a visualization tools to aid in model parameter investigation, selection, and outcomes. This tool will also help in investigating the sensitivity of the parameters of the model.
 
 ## Team Progress:
 
