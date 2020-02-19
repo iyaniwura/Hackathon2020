@@ -35,3 +35,7 @@ We develop two ODE metapopulation models to study the population dynamics of the
 * ### With quarantine
 ![alt-text](images/ODE_Quarantine.png)
 ![alt-text](images/Variable_Q.png)
+
+
+![alt-text](images/z_function.png)
+
