@@ -48,7 +48,7 @@ We develop two ODE metapopulation models to study the population dynamics of the
 
 # Table of flight data
 
-![alt-text](images/visualizationB.png)
+![alt-text](images/Travel_Data-V.png)
 
 
 
