@@ -13,7 +13,7 @@
 
 ## Team Aim:
 
-* Build a metapopulation model for different regions 
+* Build a metapopulation model for different regions  (ODE Models)
   * without  quarantine
   * with quarantine 
 * Use numerical simulation (in Python) to determine the effect different intervention strategies on local outbreak prevention and disease control; (Perhaps) BCCDC professionals can determine the most effective and economical  control measures based on this. 
