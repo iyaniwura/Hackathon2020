@@ -34,7 +34,7 @@ We already have the (primary) model, we coded it up, we nunmerically solved the 
 
 * With quarantine
 
- 
+ ![alt-text](images/norwester_blue.png)
 
 ![alt-text](images/ODE_WithQuarantine.png)
 
