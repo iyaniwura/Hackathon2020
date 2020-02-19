@@ -3,13 +3,20 @@
 
 ## Team Member:
 
-Brandon 
-David
-Lewis
-Mechthild
-Rebeca
-Sarafa
-Stephen
+
+David Cameron
+
+Brandon Chan
+
+Rebeca Cardim Falcao
+
+Sarafa Iyaniwura
+
+Mechthild Kellas-Dick
+
+Liangchen Liu
+
+Stephen Zhang
 
 ## Team Aim:
 
