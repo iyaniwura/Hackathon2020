@@ -24,12 +24,9 @@
 
 We already have the (primary) model, we coded it up, we nunmerically solved the systems of ODEs and ran simulations based on some made-up data (Team Flight we need you!), and we have the visualization!
 
-## The mathematical Model
-* S_i(t) susceptible population in the $i^{th}$ city
-* E(t) susceptible population in the $i^{th}$ city
-* I(t) susceptible population in the $i^{th}$ city
+## The mathematical model
 
-\frac{\sigma}{\mu}
+We develop two ODE metapopulation models to study the population dynamics of the  COVID-19 virus in five different connected regions. The connection between these regions are studied in terms of flight travels. 
 
 * Without quarantine
 
