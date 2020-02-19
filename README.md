@@ -36,5 +36,5 @@ We already have the (primary) model, we coded it up, we nunmerically solved the 
 
  ![alt-text](images/norwester_blue.png)
 
-![](images/ODE_Q.png)
+![alt-text](ODE_Q.png)
 
