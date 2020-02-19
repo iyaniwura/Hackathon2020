@@ -40,7 +40,10 @@ We develop two ODE metapopulation models to study the population dynamics of the
 ![alt-text](images/z_function.png)
 
 # Flight data
+* ## Departure from each country per year
 ![alt-text](images/Departuresperyear.jpg)
+
+* ## Arrival to each country per year
 ![alt-text](images/arrivals.jpg)
 
 
