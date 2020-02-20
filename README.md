@@ -39,6 +39,14 @@ We develop two ODE metapopulation models to study the population dynamics of the
 
 ![alt-text](images/z_function.png)
 
+## The regions under consideration:
+* Wuhan
+* China (excluding Wuhan)
+* Asia (excluding China)
+* Europe
+* North America
+
+
 # Flight data
 * ## Departure from each country per year
 ![alt-text](images/Departuresperyear.jpg)
